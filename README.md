@@ -1,4 +1,6 @@
-### Hi there 👋
+### Me chamo Geana Almeida tenho 22 anos sou de Itapetininga-SP, atualmente estou estudando o curso de back-end na Cubos Academy. 
+### - 🔭 Tecnologias que conheço: HTML5, CSS3, Javascript, Node.js, API´s, Figma, Trello.
+
 
 <!--
 **Geana-Almeida/Geana-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
