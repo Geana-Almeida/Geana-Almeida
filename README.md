@@ -1,4 +1,4 @@
-### Me chamo Geana Almeida tenho 23 anos sou de Itapetininga-SP, atualmente estou estudando o curso de back-end na Cubos Academy. 
+### Me chamo Geana Almeida tenho 24 anos sou de Itapetininga-SP, atualmente estou estudando o curso de back-end na Cubos Academy. 
 ### - 🔭 Tecnologias que conheço: HTML5, CSS3, React, VUE, Javascript, TypeScript ,Node.js, Nest.js, MySQL, PostgreSQL, API´s, Figma, Trello.
 
 
