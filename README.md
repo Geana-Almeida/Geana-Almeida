@@ -1,5 +1,6 @@
 ### Me chamo Geana Almeida tenho 25 anos sou de Itapetininga-SP, atualmente estou estudando o curso de back-end na Cubos Academy. 
 ### - 🔭 Tecnologias que conheço: HTML5, CSS3, React, VUE, Javascript, TypeScript ,Node.js, Nest.js, MySQL, PostgreSQL, API´s, Figma, Trello.
+### PROJETOS: https://github.com/QG-do-Codigo/Aura-frontend |  https://github.com/QG-do-Codigo/aurabackend-V2 
 
 
 <!--
